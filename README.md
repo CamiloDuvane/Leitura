@@ -1,4 +1,4 @@
-<html><head><base href="https://websim.storyteller.com/contos/">
+<html><head><base href="https://https://camiloduvane.github.io/Leitura/">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minha história, Nosso Mundo - Histórias Completas</title>
