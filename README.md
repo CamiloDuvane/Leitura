@@ -626,7 +626,8 @@
                     <div class="news-carousel">
                         <div class="news-slider">
                             <div class="news-item">
-                                <img src="https://images.app.goo.gl/qAwmGLmeUFW9eet2A" alt="Nova história adicionada" class="news-image">
+                                <img src="https://picsum.photos/300/200?random=1"
+alt="Nova história adicionada" class="news-image">
                                 <h4>Nova história adicionada</h4>
                                 <p>"A Princesa e o Sapo" agora disponível para leitura!</p>
                                 <a href="#" class="read-more">Leia mais</a>
